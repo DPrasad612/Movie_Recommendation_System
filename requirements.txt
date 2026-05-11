@@ -10,4 +10,4 @@ mtcnn
 opencv-python-headless
 pillow
 requests
-tensorflow==2.17.1
+
